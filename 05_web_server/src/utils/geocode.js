@@ -3,8 +3,7 @@ const request = require('request');
 // GeoCode => GeoLocation
 const geoBaseUrl = 'https://api.mapbox.com/geocoding/v5/mapbox.places';
 
-const geoAccessToken =
-  'pk.eyJ1IjoicnVva2VzIiwiYSI6ImNrMG9zZGE4NTAycWgzb21paGV0OGFndjYifQ.ED9IY1uSp5Byj5GneSUIZQ';
+const geoAccessToken = '';
 
 // console.log(geoUrl);
 

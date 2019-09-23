@@ -1,6 +1,6 @@
 const request = require('request');
 
-const apiKey = 'c8a06a72bd41160c3691d956fcd2e20f';
+const apiKey = '';
 let options = [];
 
 const forecast = (lat, long, callback) => {
